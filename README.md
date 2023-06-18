@@ -50,3 +50,57 @@ This Repository contains Theoretical as well as coding questions some are repeat
 ➡️ Explain the concept of CSS vendor prefixes and why they are used.
   CSS vendor prefixes are used to add browser-specific prefixes to CSS properties and values to ensure compatibility with different browser 
   versions and implementations. <br><br>
+
+## Javascript Interview Questions
+➡️ What are the different data types in JavaScript?<br>
+   JavaScript has several data types including number, string, boolean, object, null, undefined, symbol, and bigint.<br><br>
+➡️ Explain the concept of hoisting in JavaScript.<br>
+  Hoisting is a JavaScript behavior where variable and function declarations are moved to the top of their scope during the compilation phase.<br><br>
+➡️ What is the difference between null and undefined in JavaScript?<br>
+  null represents the intentional absence of any object value, while undefined indicates the absence of a defined value.<br><br>
+➡️ How does prototypal inheritance work in JavaScript?<br>
+  Prototypal inheritance allows objects to inherit properties and methods from a prototype object, forming a chain of prototypes.<br><br>
+➡️ What are closures in JavaScript and how are they used?<br>
+   Closures are functions that have access to variables from their outer (enclosing) function scope, even after the outer function has 
+   finished executing.<br><br>
+➡️ Explain the concept of event delegation in JavaScript.<br>
+   Event delegation is a technique where event handlers are attached to a parent element instead of individual child elements, leveraging 
+   event bubbling to handle events.<br><br>
+➡️ How does the "this" keyword work in JavaScript?<br>
+   The "this" keyword refers to the context in which a function is executed, determined by how the function is called.<br><br>
+➡️ What are higher-order functions in JavaScript?<br>
+  Higher-order functions are functions that can take other functions as arguments or return functions as results.<br><br>
+➡️ Explain the difference between synchronous and asynchronous programming in JavaScript.<br>
+  Synchronous programming executes code sequentially, blocking further execution until a task is complete, while asynchronous programming 
+  allows multiple tasks to run concurrently without blocking.<br><br>
+➡️ How do you handle errors in JavaScript? What is the purpose of try-catch blocks?<br>
+  Errors in JavaScript can be handled using try-catch blocks, which catch and handle exceptions that occur during the execution of a block 
+  of code.<br><br>
+➡️ What are the different ways to create objects in JavaScript?<br>
+   Objects in JavaScript can be created using object literals, constructor functions, and the "class" keyword introduced in ES6.<br><br>
+➡️ Explain the concept of callback functions in JavaScript.<br>
+  Callback functions are functions that are passed as arguments to other functions and are invoked at a later time or when a certain 
+  condition is met.<br><br>
+➡️ What is the difference between let, const, and var in JavaScript?<br>
+  let and const are block-scoped variables introduced in ES6, while var is function-scoped and can be redeclared and reassigned.<br><br>
+➡️ How does the event loop work in JavaScript?<br>
+  The event loop is a mechanism in JavaScript that handles asynchronous operations by placing them in a queue and executing them in a 
+  single-threaded manner.<br><br>
+➡️ What are arrow functions in JavaScript? How do they differ from regular functions?<br>
+  Arrow functions are a concise syntax for creating functions in JavaScript and they have a lexical "this" binding, unlike regular 
+  functions that bind "this" dynamically.<br><br>
+➡️ Explain the concept of closures and their practical uses.<br>
+  Closures are functions bundled with their lexical environment, and they are used for encapsulation, private variables, and data persistence.
+  <br><br>
+➡️ What is the purpose of the bind, call, and apply methods in JavaScript?<br>
+  bind, call, and apply are methods that allow explicit control over the "this" value in function execution, binding a specific object as the function's context
+  <br><br>
+➡️ How do you handle asynchronous operations in JavaScript? What are Promises and async/await?<br>
+  Asynchronous operations in JavaScript are commonly handled using Promises or async/await syntax, providing a more readable and structured way to work with asynchronous code.
+  <br><br>
+➡️ Explain the concept of debouncing and throttling in JavaScript.<br>
+  Debouncing and throttling are techniques used to limit the frequency of a function's execution, particularly useful for optimizing performance in event-driven scenarios.
+   <br><br>
+➡️ What are the different ways to manipulate the DOM in JavaScript?  <br>
+  The DOM can be manipulated using methods like getElementById, querySelector, createElement, appendChild, and modifying element properties and attributes.
+  <br><br>

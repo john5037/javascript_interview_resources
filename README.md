@@ -104,3 +104,28 @@ This Repository contains Theoretical as well as coding questions some are repeat
 ➡️ What are the different ways to manipulate the DOM in JavaScript?  <br>
   The DOM can be manipulated using methods like getElementById, querySelector, createElement, appendChild, and modifying element properties and attributes.
   <br><br>
+## When and what have to use in Frontend One liner
+-  Deal with Asynchronous Data - Async/Await ( Better Code readability and error handling)
+- Support Internationalization - i18next
+- Ensure Performance of application- Browser Performance API
+- Testing Component and business logic- Jest and RTL 
+- Code style and prevent bugs- Linters and formatters like ESLINT, Prettier
+- Frontend accessible to all users- Follow WCAG guideline and tools for check accessibility compliance
+- Maintain code quality and enforece coding standard - static type checker like typescript and linters like ESLint
+- Deal with user-intensive application - Lazy loading for better peerformance
+- Prevent blocking of UI thread - Web workers 
+- Responsive design- Mobile-first approach with media queries
+- Make website accessible - Use ARIA attributes and Semantic HTML
+- Real-time data update- Websockers or Server-sent events
+- seamless navigation between different part of application- client-side routing
+- Optimize large list of table in UI- Windowing
+- form validation and data collection- Formik, react-hook-form
+- System has component-based architecture- Component composition
+- If need to store data on client side- Local storage, cookie, indexedDB
+- reduce intial load time - code spitting
+- Work offline- implement service worker and build PWA
+- dealing with API- GraphQL for better fetch data
+- frequent style changes based on prop- css-in-js libraries
+- multiple similar component- higher order component or render props for code reusability
+- SEO Friendly- implement server side rendering or pre-rendering
+- For large scale application - mono repo structure for easy package management

@@ -131,3 +131,4 @@ This Repository contains Theoretical as well as coding questions some are repeat
 - For large scale application - mono repo structure for easy package management <br/>
 ## React Coding Questions <br/>
 Detect Overlapping Circle - https://codesandbox.io/s/interesting-swirles-4mvpw5?file=/src/App.js
+Infinite scroll - https://codesandbox.io/s/vibrant-mccarthy-h5dnh6?file=/src/App.js

@@ -130,5 +130,6 @@ This Repository contains Theoretical as well as coding questions some are repeat
 - SEO Friendly- implement server side rendering or pre-rendering
 - For large scale application - mono repo structure for easy package management <br/>
 ## React Coding Questions <br/>
-Detect Overlapping Circle - https://codesandbox.io/s/interesting-swirles-4mvpw5?file=/src/App.js
-Infinite scroll - https://codesandbox.io/s/vibrant-mccarthy-h5dnh6?file=/src/App.js
+Detect Overlapping Circle - https://codesandbox.io/s/interesting-swirles-4mvpw5?file=/src/App.js <br/>
+Infinite scroll - https://codesandbox.io/s/vibrant-mccarthy-h5dnh6?file=/src/App.js  <br/>
+Deep flaten Object - https://codepen.io/kmlnyk/pen/poqJQqX?editors=1111 <br />
